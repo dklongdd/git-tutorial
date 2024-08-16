@@ -1,1 +1,1 @@
-console.log('salamanca');
+console.log('salama');
